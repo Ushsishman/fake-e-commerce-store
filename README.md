@@ -1,5 +1,5 @@
 # React + Vite
-Site url: https://ushsishman.github.io/fake-e-commerce-store/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
