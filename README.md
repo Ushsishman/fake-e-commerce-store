@@ -15,5 +15,5 @@ I used fake store api.Here is [link](https://fakestoreapi.com/)
 >
 - Tailwindcss for styling
 - Framer motion for animations
-
+- React icons for icons
 
