@@ -1,6 +1,6 @@
 # Overview
 >
-This is fake e-commerce store made with react + tailwindcss + vitejs,i will write which technologies i used in this project
+This is fake e-commerce store made with react + tailwindcss + vitejs,i will explain which technologies i used in this project
 
 ## React
 >
