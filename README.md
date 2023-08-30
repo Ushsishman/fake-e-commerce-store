@@ -1,6 +1,6 @@
 # Overview
 >
-This is fake e-commerce store made with react + tailwindcss + vitejs,i will explain which technologies i used in this project.You can Visit site [here](https://graceful-belekoy-212d5a.netlify.app/)
+This is fake e-commerce store made with react + tailwindcss + vitejs,i will explain which technologies i used in this project.You can visit site [here](https://graceful-belekoy-212d5a.netlify.app/)
 
 ## React
 >
