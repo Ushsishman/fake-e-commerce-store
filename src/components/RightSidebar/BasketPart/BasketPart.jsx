@@ -3,6 +3,7 @@ import { useSelector } from "react-redux";
 
 const BasketPart = () => {
   const basketMenu = useSelector((state) => state.product[1]);
+
   {
     /* THIS IS BASKET PARTS MAIN CONTENT */
   }
